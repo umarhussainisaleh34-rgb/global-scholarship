@@ -1,0 +1,48 @@
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+a{
+    margin: 15px;
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+}
+button{
+    cursor: pointer;
+}
+label{
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+p{
+    font-size: large;
+    font-weight: bold;
+    font-style: italic;
+}
+.no{
+    font-weight: bolder;
+    color: rgb(43, 122, 43);
+}
+.yes{
+    font-weight: bold;
+    color: red;
+}
+.edit{
+    font-weight:bold ;
+    color: rgb(167, 167, 9);
+}
+#edit{
+    margin-top: 7px;
+    margin-bottom: 7px;
+}
+#no{
+    display: block;
+    margin-left: 50%;
+    margin-top: 10px;
+}
